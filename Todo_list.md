@@ -1,9 +1,0 @@
-- [ ] Edit README.md
-  - [ ] Include you name.
-  - [ ] How long it take to complete this project
-  - [ ] One thing you liked about this project
-  - [ ] and one thing that was challenging about this project
-- [ ] Upload all the project files
-  - [ ] project folder
-  - [ ] Build folder
-  - [ ] Screeshoot folder
